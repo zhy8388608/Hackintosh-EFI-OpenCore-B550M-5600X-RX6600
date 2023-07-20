@@ -2,12 +2,12 @@
 
 ## Specification
 
-| **Component** | **Model**                     |
-| ------------- | ----------------------------- |
-| CPU           | AMD Ryzen 5 5600x @ 3.7GHz    |
-| Motherboard   | ASUS TUF GAMING B550M-PLUS WIFI II   |
-| RAM           | 16GB (2 x 8GB) @ 3200         |
-| GPU           | AMD Radeon PowerColor RX 6600 |
+| **Component** | **Model**                          |
+| ------------- | ---------------------------------- |
+| CPU           | AMD Ryzen 5 5600x @ 3.7GHz         |
+| Motherboard   | ASUS TUF GAMING B550M-PLUS WIFI II |
+| RAM           | 16GB (2 x 8GB) @ 3200              |
+| GPU           | AMD Radeon PowerColor RX 6600      |
 | Ethernet      | RTL8111&8125 2.5GbE                |
 
 **macOS version**: macOS Ventura 13.4
@@ -15,8 +15,6 @@
 **OpenCore version**: 0.9.3
 
 **SMBIOS**: MacPro7,1
-
-![Screen Shot](https://raw.githubusercontent.com/Qinruiy/Opencore-Gigabyte-B550M/main/info.png)
 
 ## Drivers & Kexts
 
