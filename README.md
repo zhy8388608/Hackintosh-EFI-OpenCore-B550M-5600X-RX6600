@@ -4,10 +4,10 @@
 
 | **Component** | **Model**                          |
 | ------------- | ---------------------------------- |
-| CPU           | AMD Ryzen 5 5600x @ 3.7GHz         |
+| CPU           | AMD Ryzen 5 5600X                  |
 | Motherboard   | ASUS TUF GAMING B550M-PLUS WIFI II |
 | RAM           | 16GB (2 x 8GB) @ 3200              |
-| GPU           | AMD Radeon PowerColor RX 6600      |
+| GPU           | AMD Radeon RX6600                  |
 | Ethernet      | RTL8111&8125 2.5GbE                |
 
 **macOS version**: macOS Ventura 13.4
@@ -17,7 +17,7 @@
 **SMBIOS**: MacPro7,1
 
 ## Drivers & Kexts
-
+- [Upgraded From Qinruiy/Opencore-Gigabyte-B550M](https://github.com/Qinruiy/Opencore-Gigabyte-B550M)
 - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
 - [[Driver] HfsPlus](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi)
