@@ -1,0 +1,1 @@
+# Hackintosh-EFI-OpenCore-B550M-5600X-RX6600
