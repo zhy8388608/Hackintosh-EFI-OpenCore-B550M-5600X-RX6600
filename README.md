@@ -7,7 +7,7 @@
 | CPU           | AMD Ryzen 5 5600X                  |
 | Motherboard   | ASUS TUF GAMING B550M-PLUS WIFI II |
 | GPU           | AMD Radeon RX6600                  |
-| Ethernet      | RTL8111&8125 2.5GbE                |
+| Ethernet      | RTL8111&8125                       |
 
 **macOS version**: macOS Ventura 13.4
 
